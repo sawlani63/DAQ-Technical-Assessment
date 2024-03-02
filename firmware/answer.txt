@@ -1,3 +1,6 @@
 Use this file to write your answer to Stage 2 of the firmware tasks.
 
 Question 1:
+
+CAN allows for low cost since it reduces wiring due to multiplexing wiring.
+CAN has built in error handling. Each node checks for errors in transmission and has their own counter.
